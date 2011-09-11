@@ -1,0 +1,14 @@
+This codes are for TokyoNLP #7.
+
+* gap_weighted_string_kernel.py
+	gap-weighted string kernel sample written in Python
+
+* get_tweets.py
+	get about 500 tweets of 'a_bicky' and 'midoisan'
+	and write them into 'tweets.dat' in SVMlight data format
+
+* string_kernel_test.R
+	classify tweets.dat using gap-weighted string kernel SVM
+	and character n-gram linear SVM
+
+See also: http://www.slideshare.net/abicky/ss-9200313
